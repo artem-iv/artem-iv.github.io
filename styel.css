@@ -3,8 +3,9 @@
   padding: 0;
 }
 body {
-  background: gray;
+  background: #ff6d6d;
 }
+
 header {
   display: flex;
   flex-direction: column;
